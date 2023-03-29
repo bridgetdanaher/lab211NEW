@@ -227,6 +227,14 @@ void ksabo4_heasam2(){
   printf("We learned that you can directly connect a github repo to replit.\n");
 }
 
+void bdana2_mnahl2_ifeli2() {
+  printf("Bridget Danaher\n");
+  printf("Mohamad Nahleh\n");
+  printf("Isaac Felix\n");
+  printf("We learned how to clone repositories from github into our own replit program\n");
+  printf("I think its so cool how we can get all of the files and folders from github and have them replicated exactly in my replit program\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -260,6 +268,7 @@ int main() {
   ddizo2_tle94();
   dnazi2_lcasti39();
   ksabo4_heasam2();
+  bdana2_mnahl2_ifeli2()
 
   return 0;
 }
